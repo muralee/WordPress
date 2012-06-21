@@ -13,5 +13,8 @@
  */
 define('WP_USE_THEMES', true);
 
+echo 'I am here<br>';
+echo 'Testing Git Repository Versioning';
+exit;
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
